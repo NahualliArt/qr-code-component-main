@@ -28,6 +28,7 @@ body {
 .card{
     position: relative;
     border-radius: 22px;
+    margin: 20px;
     overflow: hidden;
     width: 350px;
     height: fit-content;
